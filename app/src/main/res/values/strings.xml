@@ -1,0 +1,24 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Shopper</string>
+
+    <!-- Common UI Strings -->
+    <string name="welcome_message">Welcome to Shopper!</string>
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Error Messages -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection.</string>
+
+    <!-- Shopping List -->
+    <string name="shopping_list_title">Your Shopping List</string>
+    <string name="empty_list_message">No items added yet. Start adding now!</string>
+
+    <!-- Confirmation Messages -->
+    <string name="delete_confirmation">Are you sure you want to delete this item?</string>
+    <string name="exit_confirmation">Are you sure you want to exit?</string>
+</resources>

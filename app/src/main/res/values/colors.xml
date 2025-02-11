@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#FF6F61</color> <!-- Warm Coral Red -->
+    <color name="colorPrimaryDark">#D64937</color> <!-- Darker Variant -->
+    <color name="colorPrimaryVariant">#FF8A75</color> <!-- Lighter Accent -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on Primary -->
+    <color name="colorPrimaryContainer">#FF8A75</color> <!-- Container for Primary -->
+    <color name="colorOnPrimaryContainer">#333333</color> <!-- Text on Primary Container -->
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#4A90E2</color> <!-- Soft Blue for Contrast -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White text on Secondary -->
+    <color name="colorSecondaryContainer">#72A7E5</color> <!-- Lighter Secondary -->
+    <color name="colorOnSecondaryContainer">#000000</color> <!-- Text on Secondary Container -->
+
+    <!-- Background & Surface -->
+    <color name="colorBackground">#FAFAFA</color> <!-- Light Grayish White -->
+    <color name="colorOnBackground">#333333</color> <!-- Dark Text on Background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Pure White for Cards -->
+    <color name="colorOnSurface">#333333</color> <!-- Dark Gray Text for Readability -->
+    <color name="colorSurfaceVariant">#F0F0F0</color> <!-- Slightly Gray Surface -->
+    <color name="colorOnSurfaceVariant">#222222</color> <!-- Darker Text on Surface -->
+
+    <!-- Outline & Borders -->
+    <color name="colorOutline">#666666</color> <!-- Subtle Outlines -->
+
+    <!-- Status & Navigation Bar Colors -->
+    <color name="statusBarColor">#D64937</color> <!-- Slightly Darker Primary -->
+    <color name="navigationBarColor">#333333</color> <!-- Dark Gray for Footer -->
+</resources>
